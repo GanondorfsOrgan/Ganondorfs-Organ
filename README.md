@@ -2,7 +2,7 @@
 ALL Files in this repository can and will cause DMCA-Issues or stop you from monetization your content. EVERYTHING hosted in here is !!!NOT!!! allowed to be used in official Race restreams!
 
 
-If you are looking for Stream/Restream save music check out: [DaruniasJoy](https://github.com/DaruniasJoy/OoT-Custom-Sequences).
+If you are looking for Stream/Restream safe music check out: [DaruniasJoy](https://github.com/DaruniasJoy/OoT-Custom-Sequences).
 
 # Custom Ocarina of Time Music Sequences
 The .zip here contains the resources required for custom music sequences in The Legend of Zelda: Ocarina of Time while using the Ocarina of Time Randomizer.
