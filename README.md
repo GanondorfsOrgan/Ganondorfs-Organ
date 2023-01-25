@@ -44,4 +44,4 @@ The best way to submit your own AudioSeqs is by following the [GitKraken guide o
 
 If you believe a sequence can be better adapted you can either contact the original author and collaborate on improving it to replace the current one, or submit it as a second AudioSeq and meta file with either a number appended to the end (Song Title-2.seq) or a short identifier such as your/your username's initials. (Song Title-dj.seq)
 
-You can also submit a true remix or original creation if you do not wish to recreate a piece of music entirely.
+You can also submit a true remix or original creation if you do not wish to recreate a piece of music entirely. 
