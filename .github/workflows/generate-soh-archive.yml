@@ -17,10 +17,10 @@ jobs:
         cd data
         wget https://github.com/leggettc18/SequenceOTRizer/releases/download/v0.2/SequenceOTRizer-0.2-Linux.tar.gz
         tar -xzvf SequenceOTRizer-0.2-Linux.tar.gz
-        ./SequenceOTRizer --seq-path Music --otr-name daruniasjoy
+        ./SequenceOTRizer --seq-path Music --otr-name ganondorfsorgan
 
-    - name: Upload generated daruniasjoy.otr
+    - name: Upload generated ganondorfsorgan.otr
       uses: actions/upload-artifact@v3
       with:
-        name: daruniasjoy.otr
+        name: ganondorfsorgan.otr
         path: data/mods
