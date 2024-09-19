@@ -54,5 +54,5 @@ jobs:
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       with:
-        files: data/mods/daruniasjoy.otr
+        files: data/mods/ganondorfsorgan.otr
         tag_name: Build-${{ env.short_hash  }}    
