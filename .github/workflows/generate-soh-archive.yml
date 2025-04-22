@@ -24,31 +24,8 @@ jobs:
         name: ganondorfsorgan.otr
         path: data/mods
 
-    - name: List all releases
-      run: |
-        releases=$(curl -s -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" \
-          https://api.github.com/repos/${{ github.repository }}/releases)
-        echo "$releases" | jq -r '.[].id' > release_ids.txt
-    
-    - name: Delete all releases
-      run: |
-        while IFS= read -r release_id; do
-          curl -X DELETE -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" \
-            https://api.github.com/repos/${{ github.repository }}/releases/$release_id
-        done < release_ids.txt
-  
-
     - name: Create GitHub Release
       id: create_release
-      uses: softprops/action-gh-release@v2
-      env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      with:
-        tag_name: latest
-        draft: false
-        prerelease: false
-
-    - name: Upload Release Asset
       uses: softprops/action-gh-release@v2
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -56,3 +33,5 @@ jobs:
         files: data/mods/ganondorfsorgan.otr
         tag_name: latest
         name: Ship of Harkinian Bundle
+        draft: false
+        prerelease: false
