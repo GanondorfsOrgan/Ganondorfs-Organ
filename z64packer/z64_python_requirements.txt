@@ -1,0 +1,2 @@
+# Required for z64_database_fixer.py
+pyyaml
