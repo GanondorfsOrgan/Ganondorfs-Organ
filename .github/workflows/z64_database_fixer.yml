@@ -25,8 +25,8 @@ jobs:
           
       - name: Download latest version of database fixer and it's dependencies
         run: |
-          curl -o z64_database_fixer.py https://raw.githubusercontent.com/CristobalPenaloza/cristobalpenaloza.github.io/refs/heads/main/z64_repo_kit/z64_database_fixer.py
-          curl -o z64_python_requirements.txt https://raw.githubusercontent.com/CristobalPenaloza/cristobalpenaloza.github.io/refs/heads/main/z64_repo_kit/z64_python_requirements.txt
+          curl -o z64packer/z64_database_fixer.py https://raw.githubusercontent.com/CristobalPenaloza/cristobalpenaloza.github.io/refs/heads/main/z64_repo_kit/z64packer/z64_database_fixer.py
+          curl -o z64packer/z64_python_requirements.txt https://raw.githubusercontent.com/CristobalPenaloza/cristobalpenaloza.github.io/refs/heads/main/z64_repo_kit/z64packer/z64_python_requirements.txt
 
       - name: Set up Python ${{ matrix.python-version }}
         uses: actions/setup-python@v4
@@ -36,10 +36,10 @@ jobs:
       - name: Install Python dependencies
         uses: py-actions/py-dependency-install@v4
         with:
-          path: "z64_python_requirements.txt"
+          path: "z64packer/z64_python_requirements.txt"
 
       - name: Run database fixer
-        run: python "z64_database_fixer.py" --ci
+        run: python "z64packer/z64_database_fixer.py" --ci
         
       - name: Commit and push changes
         run: |
