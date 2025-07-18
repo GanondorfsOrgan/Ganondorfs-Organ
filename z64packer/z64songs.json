@@ -122,14 +122,14 @@
   },
   {
     "game": "Songs",
-    "song": "Georges Brassens - H\u00e9catombe",
+    "song": "Georges Brassens - Hécatombe",
     "type": "bgm",
     "categories": [],
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false,
     "uuid": "ef2a1d10-9496-4460-a73e-f1fd4335d1e0",
-    "file": "Songs/Georges Brassens - H\u00e9catombe.ootrs"
+    "file": "Songs/Georges Brassens - Hécatombe.ootrs"
   },
   {
     "game": "Songs",
@@ -258,7 +258,16 @@
     "usesCustomSamples": false,
     "usesFormmask": false,
     "uuid": "840aecaa-66eb-4a92-b9b8-1064ecc85eab",
-    "file": "Songs/Elvis Crespo - Suavemente (MIDI version).ootrs"
+    "file": "Songs/Elvis Crespo - Suavemente (MIDI version).ootrs",
+    "lastUpdateDate": "2025-07-18T00:15:56.339Z",
+    "composers": [
+      "Elvis Crespo"
+    ],
+    "converters": [
+      "Tolin"
+    ],
+    "isDMCACritical": false,
+    "preview": "Songs/Elvis Crespo - Suavemente (MIDI version).mp3"
   },
   {
     "game": "Songs",
@@ -306,14 +315,14 @@
   },
   {
     "game": "Songs",
-    "song": "V\u00edctor Jara - Vientos del pueblo",
+    "song": "Víctor Jara - Vientos del pueblo",
     "type": "bgm",
     "categories": [],
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false,
     "uuid": "e58a8336-3b3c-458d-ac34-4520b744b166",
-    "file": "Songs/V\u00edctor Jara - Vientos del pueblo.ootrs"
+    "file": "Songs/Víctor Jara - Vientos del pueblo.ootrs"
   },
   {
     "game": "Songs",
