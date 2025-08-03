@@ -30,7 +30,11 @@
     "usesCustomSamples": false,
     "usesFormmask": false,
     "uuid": "2f5dc61a-8fd5-4aa8-bcef-e795217e3a5e",
-    "file": "Deltarune/Pandora Palace.ootrs"
+    "file": "Deltarune/Pandora Palace.ootrs",
+    "converters": [
+      "Fish_waffle64"
+    ],
+    "preview": "https://youtu.be/539nGOzTR6s"
   },
   {
     "game": "Deltarune",
@@ -41,7 +45,11 @@
     "usesCustomSamples": false,
     "usesFormmask": false,
     "uuid": "61c958a8-67bc-492c-aa5a-febf01e5a997",
-    "file": "Deltarune/Chaos King.ootrs"
+    "file": "Deltarune/Chaos King.ootrs",
+    "converters": [
+      "Fish_waffle64"
+    ],
+    "preview": "https://youtu.be/61rIN8Zy2uU"
   },
   {
     "game": "Deltarune",
@@ -74,7 +82,11 @@
     "usesCustomSamples": false,
     "usesFormmask": false,
     "uuid": "be65b42c-85ff-43d2-92c1-9e547205a612",
-    "file": "Deltarune/Rude Buster.ootrs"
+    "file": "Deltarune/Rude Buster.ootrs",
+    "converters": [
+      "Bluwiikoon"
+    ],
+    "preview": "https://youtu.be/b5MtBmKIiGM"
   },
   {
     "game": "Deltarune",
@@ -85,7 +97,11 @@
     "usesCustomSamples": false,
     "usesFormmask": false,
     "uuid": "0b62cafd-a43d-4c21-be57-d34c2ec60a56",
-    "file": "Deltarune/BIG SHOT.ootrs"
+    "file": "Deltarune/BIG SHOT.ootrs",
+    "converters": [
+      "MrMario7788"
+    ],
+    "preview": "https://youtu.be/py52f1ZCqBE"
   },
   {
     "game": "Deltarune",
@@ -96,7 +112,11 @@
     "usesCustomSamples": false,
     "usesFormmask": false,
     "uuid": "679cf447-18db-42d7-b06a-804d94e19415",
-    "file": "Deltarune/The World Revolving.ootrs"
+    "file": "Deltarune/The World Revolving.ootrs",
+    "converters": [
+      "TheGael95"
+    ],
+    "preview": "https://youtu.be/BLzMrqMU6lA"
   },
   {
     "game": "Songs",
@@ -549,7 +569,11 @@
     "usesCustomSamples": false,
     "usesFormmask": false,
     "uuid": "3d472328-20d2-47bb-a19a-ab287d65efda",
-    "file": "Castlevania Series/Castlevania 3 Draculas Curse/Stage 3.ootrs"
+    "file": "Castlevania Series/Castlevania 3 Draculas Curse/Stage 3.ootrs",
+    "converters": [
+      "Joshua8600"
+    ],
+    "preview": "https://youtu.be/1aAIBx2Pu4g"
   },
   {
     "game": "Touhou CD - Changeability of Strange Dream",
@@ -805,7 +829,10 @@
     "usesCustomSamples": false,
     "usesFormmask": false,
     "uuid": "c1799a6d-6ae6-419e-a7ef-ac522cee13a9",
-    "file": "Touhou/Touhou 18/The Princess Who Slays Dragon Kings.ootrs"
+    "file": "Touhou/Touhou 18/The Princess Who Slays Dragon Kings.ootrs",
+    "converters": [
+      "Shijima"
+    ]
   },
   {
     "game": "Persona 5",
@@ -816,7 +843,11 @@
     "usesCustomSamples": false,
     "usesFormmask": false,
     "uuid": "f5d8d806-5cbb-4a79-99aa-ce43d14195a1",
-    "file": "Persona 5/Life Will Change.ootrs"
+    "file": "Persona 5/Life Will Change.ootrs",
+    "converters": [
+      "3Pills"
+    ],
+    "preview": "https://youtu.be/tPJ87BscQY4"
   },
   {
     "game": "Olivia Rodrigo",
@@ -1050,7 +1081,11 @@
     "usesCustomSamples": false,
     "usesFormmask": false,
     "uuid": "7afb5c8f-3b23-42ba-9a13-e055fbee61aa",
-    "file": "Anime/Puella Magi Madoka Magica/And im Home.ootrs"
+    "file": "Anime/Puella Magi Madoka Magica/And im Home.ootrs",
+    "converters": [
+      "KamekoSkye"
+    ],
+    "preview": "https://youtu.be/P1VCtWeji9s"
   },
   {
     "game": "K-On",
@@ -1061,7 +1096,11 @@
     "usesCustomSamples": false,
     "usesFormmask": false,
     "uuid": "392d3285-cd78-434a-a371-681517197acc",
-    "file": "Anime/K-On/Fuwa Fuwa Time.ootrs"
+    "file": "Anime/K-On/Fuwa Fuwa Time.ootrs",
+    "converters": [
+      "KamekoSkye"
+    ],
+    "preview": "https://youtu.be/ebhpCCJapGk"
   },
   {
     "game": "K-On",
@@ -1083,7 +1122,11 @@
     "usesCustomSamples": false,
     "usesFormmask": false,
     "uuid": "c3eb61b4-4ccf-4e0e-9b43-9060f6a88372",
-    "file": "Anime/Boku No Hero Academia/Sora Ni Utaeba.ootrs"
+    "file": "Anime/Boku No Hero Academia/Sora Ni Utaeba.ootrs",
+    "converters": [
+      "KamekoSkye"
+    ],
+    "preview": "https://youtu.be/_V_oAC2kwOU"
   },
   {
     "game": "Sword Art Online",
@@ -1094,7 +1137,11 @@
     "usesCustomSamples": false,
     "usesFormmask": false,
     "uuid": "07631403-34f3-4a81-9c94-d801980ae4c3",
-    "file": "Anime/Sword Art Online/Crossing Field.ootrs"
+    "file": "Anime/Sword Art Online/Crossing Field.ootrs",
+    "converters": [
+      "Darkangel93x"
+    ],
+    "preview": "https://youtu.be/DiCKoFRK9ic"
   },
   {
     "game": "Final Fantasy VI",
@@ -1105,7 +1152,11 @@
     "usesCustomSamples": false,
     "usesFormmask": false,
     "uuid": "dcf80413-32a9-427c-a57a-70c43d9ee212",
-    "file": "Final Fantasy Series/Final Fantasy VI/Terra's Theme.ootrs"
+    "file": "Final Fantasy Series/Final Fantasy VI/Terra's Theme.ootrs",
+    "converters": [
+      "The Sound Defense"
+    ],
+    "preview": "https://youtu.be/0RTp_pNrbcg"
   },
   {
     "game": "Final Fantasy V",
@@ -1116,7 +1167,11 @@
     "usesCustomSamples": false,
     "usesFormmask": false,
     "uuid": "bff2e10f-4f10-42dc-ac9e-2aaa94a0a058",
-    "file": "Final Fantasy Series/Final Fantasy V/Battle on the Big Bridge.ootrs"
+    "file": "Final Fantasy Series/Final Fantasy V/Battle on the Big Bridge.ootrs",
+    "converters": [
+      "NewSoupVi"
+    ],
+    "preview": "https://youtu.be/OHsX0B-5qPk"
   },
   {
     "game": "Ghibli",
@@ -1360,7 +1415,10 @@
     "usesCustomSamples": false,
     "usesFormmask": false,
     "uuid": "7acc8e55-54d9-4477-9bf9-10b13cf2d008",
-    "file": "Devil May Cry/Devil Trigger.ootrs"
+    "file": "Devil May Cry/Devil Trigger.ootrs",
+    "converters": [
+      "KamekoSkye"
+    ]
   },
   {
     "game": "Spirit Tracks",
@@ -1371,7 +1429,11 @@
     "usesCustomSamples": false,
     "usesFormmask": false,
     "uuid": "a5ee85a8-5593-4b95-b56f-60e91bdede63",
-    "file": "The Legend of Zelda Series/Spirit Tracks/Troubled Realm.ootrs"
+    "file": "The Legend of Zelda Series/Spirit Tracks/Troubled Realm.ootrs",
+    "converters": [
+      "Owl Is Not A Cat"
+    ],
+    "preview": "https://youtu.be/uhpwQjVgW_4"
   },
   {
     "game": "TV",
