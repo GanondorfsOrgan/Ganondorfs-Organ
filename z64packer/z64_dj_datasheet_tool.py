@@ -132,8 +132,9 @@ def compareTexts(a, b):
    return nA in nB or nB in nA
  
 def normalize(text):
-   t = text.upper().replace("É", "E")
-   r = [" ", "'", ":", "-", "/", ".", "(", ")", "!", ";"]
+   if text == "???": return "UNKNOWN"
+   t = text.upper().replace("Á", "A").replace("É", "E").replace("Í", "I").replace("Ó", "O").replace("Ú", "U")
+   r = [" ", "'", ":", "-", "/", ".", "(", ")", "!", ";", "\""]
    for char in r:
       t = t.replace(char, "")
    return t
