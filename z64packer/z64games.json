@@ -1,9 +1,39 @@
 [
   {
-    "game": "Memes",
-    "series": "",
+    "game": "Boku No Hero Academia",
+    "series": "Anime",
     "platforms": [],
-    "abbrName": "Memes"
+    "abbrName": "Boku No Hero Academia"
+  },
+  {
+    "game": "K-On",
+    "series": "Anime",
+    "platforms": [],
+    "abbrName": "K-On"
+  },
+  {
+    "game": "Puella Magi Madoka Magica",
+    "series": "Anime",
+    "platforms": [],
+    "abbrName": "Puella Magi Madoka Magica"
+  },
+  {
+    "game": "Sword Art Online",
+    "series": "Anime",
+    "platforms": [],
+    "abbrName": "Sword Art Online"
+  },
+  {
+    "game": "Castlevania 3 Draculas Curse",
+    "series": "Castlevania Series",
+    "platforms": [],
+    "abbrName": "Castlevania 3 Draculas Curse"
+  },
+  {
+    "game": "Symphony of the Night",
+    "series": "Castlevania Series",
+    "platforms": [],
+    "abbrName": "Symphony of the Night"
   },
   {
     "game": "Deltarune",
@@ -12,22 +42,250 @@
     "abbrName": "Deltarune"
   },
   {
-    "game": "Songs",
+    "game": "Devil May Cry",
     "series": "",
     "platforms": [],
-    "abbrName": "Songs"
+    "abbrName": "Devil May Cry"
   },
   {
-    "game": "Symphonie of the Night",
-    "series": "Castlevania Series",
+    "game": "Final Fantasy V",
+    "series": "Final Fantasy Series",
     "platforms": [],
-    "abbrName": "Symphonie of the Night"
+    "abbrName": "Final Fantasy V"
   },
   {
-    "game": "Castlevania 3 Draculas Curse",
-    "series": "Castlevania Series",
+    "game": "Final Fantasy VI",
+    "series": "Final Fantasy Series",
     "platforms": [],
-    "abbrName": "Castlevania 3 Draculas Curse"
+    "abbrName": "Final Fantasy VI"
+  },
+  {
+    "game": "Kiki's Delivery Service",
+    "series": "Ghibli",
+    "platforms": [],
+    "abbrName": "Kiki's Delivery Service"
+  },
+  {
+    "game": "My Neighbor Totoro",
+    "series": "Ghibli",
+    "platforms": [],
+    "abbrName": "My Neighbor Totoro"
+  },
+  {
+    "game": "Porco Rosso",
+    "series": "Ghibli",
+    "platforms": [],
+    "abbrName": "Porco Rosso"
+  },
+  {
+    "game": "Spirited Away",
+    "series": "Ghibli",
+    "platforms": [],
+    "abbrName": "Spirited Away"
+  },
+  {
+    "game": "Memes",
+    "series": "",
+    "platforms": [],
+    "abbrName": "Memes"
+  },
+  {
+    "game": "Persona 5",
+    "series": "",
+    "platforms": [],
+    "abbrName": "Persona 5"
+  },
+  {
+    "game": "Antonin Dvorak",
+    "series": "Songs",
+    "platforms": [],
+    "abbrName": "Antonin Dvorak"
+  },
+  {
+    "game": "Brujeria",
+    "series": "Songs",
+    "platforms": [],
+    "abbrName": "Brujeria"
+  },
+  {
+    "game": "Dies Irae",
+    "series": "Songs",
+    "platforms": [],
+    "abbrName": "Dies Irae"
+  },
+  {
+    "game": "DragonForce",
+    "series": "Songs",
+    "platforms": [],
+    "abbrName": "DragonForce"
+  },
+  {
+    "game": "Elvis Crespo",
+    "series": "Songs",
+    "platforms": [],
+    "abbrName": "Elvis Crespo"
+  },
+  {
+    "game": "Georg Ots",
+    "series": "Songs",
+    "platforms": [],
+    "abbrName": "Georg Ots"
+  },
+  {
+    "game": "Georges Brassens",
+    "series": "Songs",
+    "platforms": [],
+    "abbrName": "Georges Brassens"
+  },
+  {
+    "game": "Impaled Nazarene",
+    "series": "Songs",
+    "platforms": [],
+    "abbrName": "Impaled Nazarene"
+  },
+  {
+    "game": "Inti Illimani",
+    "series": "Songs",
+    "platforms": [],
+    "abbrName": "Inti Illimani"
+  },
+  {
+    "game": "Jo Yeong-wook",
+    "series": "Songs",
+    "platforms": [],
+    "abbrName": "Jo Yeong-wook"
+  },
+  {
+    "game": "Lynyrd Skynyrd",
+    "series": "Songs",
+    "platforms": [],
+    "abbrName": "Lynyrd Skynyrd"
+  },
+  {
+    "game": "Malmsteen Yngwie",
+    "series": "Songs",
+    "platforms": [],
+    "abbrName": "Malmsteen Yngwie"
+  },
+  {
+    "game": "Mariah Carey",
+    "series": "Songs",
+    "platforms": [],
+    "abbrName": "Mariah Carey"
+  },
+  {
+    "game": "Matwei Blanter",
+    "series": "Songs",
+    "platforms": [],
+    "abbrName": "Matwei Blanter"
+  },
+  {
+    "game": "Mordechai Gebirtig",
+    "series": "Songs",
+    "platforms": [],
+    "abbrName": "Mordechai Gebirtig"
+  },
+  {
+    "game": "Olivia Rodrigo",
+    "series": "Songs",
+    "platforms": [],
+    "abbrName": "Olivia Rodrigo"
+  },
+  {
+    "game": "Rage Against The Machine",
+    "series": "Songs",
+    "platforms": [],
+    "abbrName": "Rage Against The Machine"
+  },
+  {
+    "game": "Rick Astley",
+    "series": "Songs",
+    "platforms": [],
+    "abbrName": "Rick Astley"
+  },
+  {
+    "game": "Sandy Marton",
+    "series": "Songs",
+    "platforms": [],
+    "abbrName": "Sandy Marton"
+  },
+  {
+    "game": "Smash Mouth",
+    "series": "Songs",
+    "platforms": [],
+    "abbrName": "Smash Mouth"
+  },
+  {
+    "game": "Summoning",
+    "series": "Songs",
+    "platforms": [],
+    "abbrName": "Summoning"
+  },
+  {
+    "game": "Toxic Holocaust",
+    "series": "Songs",
+    "platforms": [],
+    "abbrName": "Toxic Holocaust"
+  },
+  {
+    "game": "Unknown",
+    "series": "Songs",
+    "platforms": [],
+    "abbrName": "Unknown"
+  },
+  {
+    "game": "V\u00edctor Jara",
+    "series": "Songs",
+    "platforms": [],
+    "abbrName": "V\u00edctor Jara"
+  },
+  {
+    "game": "Sonic Adventure 2",
+    "series": "Sonic Series",
+    "platforms": [],
+    "abbrName": "Sonic Adventure 2"
+  },
+  {
+    "game": "Spirit Tracks",
+    "series": "The Legend of Zelda Series",
+    "platforms": [],
+    "abbrName": "Spirit Tracks"
+  },
+  {
+    "game": "Touhou 11 - Subterranean Animism",
+    "series": "Touhou",
+    "platforms": [],
+    "abbrName": "Touhou 11 - Subterranean Animism"
+  },
+  {
+    "game": "Touhou 15 - Legacy of Lunatic Kingdom",
+    "series": "Touhou",
+    "platforms": [],
+    "abbrName": "Touhou 15 - Legacy of Lunatic Kingdom"
+  },
+  {
+    "game": "Touhou 18",
+    "series": "Touhou",
+    "platforms": [],
+    "abbrName": "Touhou 18"
+  },
+  {
+    "game": "Touhou 4",
+    "series": "Touhou",
+    "platforms": [],
+    "abbrName": "Touhou 4"
+  },
+  {
+    "game": "Touhou 6",
+    "series": "Touhou",
+    "platforms": [],
+    "abbrName": "Touhou 6"
+  },
+  {
+    "game": "Touhou 8",
+    "series": "Touhou",
+    "platforms": [],
+    "abbrName": "Touhou 8"
   },
   {
     "game": "Touhou CD - Changeability of Strange Dream",
@@ -42,147 +300,69 @@
     "abbrName": "Touhou CD - Magical Astronomy"
   },
   {
-    "game": "Tohou 6",
-    "series": "Touhou",
+    "game": "Frozen",
+    "series": "TV and Movies",
     "platforms": [],
-    "abbrName": "Tohou 6"
+    "abbrName": "Frozen"
   },
   {
-    "game": "Touhou 15 - Legacy of Lunatic Kingdom",
-    "series": "Touhou",
+    "game": "LazyTown",
+    "series": "TV and Movies",
     "platforms": [],
-    "abbrName": "Touhou 15 - Legacy of Lunatic Kingdom"
+    "abbrName": "LazyTown"
   },
   {
-    "game": "Touhou 11 - Subterranean Animism",
-    "series": "Touhou",
+    "game": "Merrie Melodies",
+    "series": "TV and Movies",
     "platforms": [],
-    "abbrName": "Touhou 11 - Subterranean Animism"
+    "abbrName": "Merrie Melodies"
   },
   {
-    "game": "Tohou 4",
-    "series": "Touhou",
+    "game": "Nightmare Before Christmas",
+    "series": "TV and Movies",
     "platforms": [],
-    "abbrName": "Tohou 4"
+    "abbrName": "Nightmare Before Christmas"
   },
   {
-    "game": "Tohou 8",
-    "series": "Touhou",
+    "game": "Rick And Morty",
+    "series": "TV and Movies",
     "platforms": [],
-    "abbrName": "Tohou 8"
+    "abbrName": "Rick And Morty"
   },
   {
-    "game": "Touhou 18",
-    "series": "Touhou",
+    "game": "Robot Wars (TV show)",
+    "series": "TV and Movies",
     "platforms": [],
-    "abbrName": "Touhou 18"
+    "abbrName": "Robot Wars (TV show)"
   },
   {
-    "game": "Persona 5",
-    "series": "",
+    "game": "SpongeBob SquarePants",
+    "series": "TV and Movies",
     "platforms": [],
-    "abbrName": "Persona 5"
+    "abbrName": "SpongeBob SquarePants"
   },
   {
-    "game": "Olivia Rodrigo",
-    "series": "",
+    "game": "The Godfather",
+    "series": "TV and Movies",
     "platforms": [],
-    "abbrName": "Olivia Rodrigo"
+    "abbrName": "The Godfather"
+  },
+  {
+    "game": "Twin Peaks",
+    "series": "TV and Movies",
+    "platforms": [],
+    "abbrName": "Twin Peaks"
+  },
+  {
+    "game": "X-Men The Animated Series",
+    "series": "TV and Movies",
+    "platforms": [],
+    "abbrName": "X-Men The Animated Series"
   },
   {
     "game": "Undertale",
     "series": "",
     "platforms": [],
     "abbrName": "Undertale"
-  },
-  {
-    "game": "Robot Wars (TV show)",
-    "series": "Robot Wars series",
-    "platforms": [],
-    "abbrName": "Robot Wars (TV show)"
-  },
-  {
-    "game": "Puella Magi Madoka Magica",
-    "series": "Anime",
-    "platforms": [],
-    "abbrName": "Puella Magi Madoka Magica"
-  },
-  {
-    "game": "K-On",
-    "series": "Anime",
-    "platforms": [],
-    "abbrName": "K-On"
-  },
-  {
-    "game": "Boku No Hero Academia",
-    "series": "Anime",
-    "platforms": [],
-    "abbrName": "Boku No Hero Academia"
-  },
-  {
-    "game": "Sword Art Online",
-    "series": "Anime",
-    "platforms": [],
-    "abbrName": "Sword Art Online"
-  },
-  {
-    "game": "Final Fantasy VI",
-    "series": "Final Fantasy Series",
-    "platforms": [],
-    "abbrName": "Final Fantasy VI"
-  },
-  {
-    "game": "Final Fantasy V",
-    "series": "Final Fantasy Series",
-    "platforms": [],
-    "abbrName": "Final Fantasy V"
-  },
-  {
-    "game": "Ghibli",
-    "series": "",
-    "platforms": [],
-    "abbrName": "Ghibli"
-  },
-  {
-    "game": "Dragonforce",
-    "series": "",
-    "platforms": [],
-    "abbrName": "Dragonforce"
-  },
-  {
-    "game": "Mariah Carey",
-    "series": "",
-    "platforms": [],
-    "abbrName": "Mariah Carey"
-  },
-  {
-    "game": "Sonic Adventure 2",
-    "series": "Sonic Series",
-    "platforms": [],
-    "abbrName": "Sonic Adventure 2"
-  },
-  {
-    "game": "Frozen",
-    "series": "",
-    "platforms": [],
-    "abbrName": "Frozen"
-  },
-  {
-    "game": "Devil May Cry",
-    "series": "",
-    "platforms": [],
-    "abbrName": "Devil May Cry"
-  },
-  {
-    "game": "Spirit Tracks",
-    "series": "The Legend of Zelda Series",
-    "platforms": [],
-    "abbrName": "Spirit Tracks"
-  },
-  {
-    "game": "TV",
-    "series": "",
-    "platforms": [],
-    "abbrName": "TV"
   }
 ]
