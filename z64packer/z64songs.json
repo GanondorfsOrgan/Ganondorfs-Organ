@@ -291,28 +291,6 @@
   },
   {
     "game": "Deltarune",
-    "song": "Fanfare - HEY EVERY",
-    "type": "fanfare",
-    "categories": [
-      "ItemGet",
-      "HeartContainerGet",
-      "LearnSong",
-      "EponasSong",
-      "SariasSong",
-      "SunsSong",
-      "SongOfStorms",
-      "ItemFanfare",
-      "UtilitySong",
-      "SongFanfare"
-    ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "uuid": "43aa150e-ce51-43f7-8fd9-9de093d254d2",
-    "file": "Deltarune/Fanfare - HEY EVERY.ootrs"
-  },
-  {
-    "game": "Deltarune",
     "song": "Pandora Palace",
     "type": "bgm",
     "categories": [],
@@ -1694,26 +1672,6 @@
   },
   {
     "game": "Undertale",
-    "song": "MEGALOVANIA",
-    "type": "bgm",
-    "categories": [
-      "BossBattle",
-      "FireBoss",
-      "GanondorfBattle",
-      "GanonBattle",
-      "BossFight",
-      "FinalFight",
-      "BigFight",
-      "Fight"
-    ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "uuid": "38860720-1c4f-46b8-b6ea-f12bbdd8475d",
-    "file": "Undertale/MEGALOVANIA.ootrs"
-  },
-  {
-    "game": "Undertale",
     "song": "Temmie Village",
     "type": "bgm",
     "categories": [
@@ -1736,5 +1694,47 @@
     "usesFormmask": false,
     "uuid": "983e2ea2-71fe-4558-bf74-728e7d8ec51f",
     "file": "Undertale/Temmie Village.ootrs"
+  },
+  {
+    "game": "Deltarune",
+    "song": "Fanfare - Hey every",
+    "type": "fanfare",
+    "categories": [
+      "ItemGet",
+      "HeartContainerGet",
+      "LearnSong",
+      "EponasSong",
+      "SariasSong",
+      "SunsSong",
+      "SongOfStorms",
+      "ItemFanfare",
+      "UtilitySong",
+      "SongFanfare"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "uuid": "7a02f2a9-4a06-45b1-924d-8639344ad3a7",
+    "file": "Deltarune/Fanfare - Hey every.ootrs"
+  },
+  {
+    "game": "Undertale",
+    "song": "Megalovania",
+    "type": "bgm",
+    "categories": [
+      "BossBattle",
+      "FireBoss",
+      "GanondorfBattle",
+      "GanonBattle",
+      "BossFight",
+      "FinalFight",
+      "BigFight",
+      "Fight"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "uuid": "df4075f5-9872-448f-896c-9d22304dd0f8",
+    "file": "Undertale/Megalovania.ootrs"
   }
 ]
