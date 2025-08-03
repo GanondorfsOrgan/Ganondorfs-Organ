@@ -122,14 +122,14 @@
   },
   {
     "game": "Songs",
-    "song": "Georges Brassens - Hécatombe",
+    "song": "Georges Brassens - H\u00e9catombe",
     "type": "bgm",
     "categories": [],
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false,
     "uuid": "ef2a1d10-9496-4460-a73e-f1fd4335d1e0",
-    "file": "Songs/Georges Brassens - Hécatombe.ootrs"
+    "file": "Songs/Georges Brassens - H\u00e9catombe.ootrs"
   },
   {
     "game": "Songs",
@@ -315,14 +315,14 @@
   },
   {
     "game": "Songs",
-    "song": "Víctor Jara - Vientos del pueblo",
+    "song": "V\u00edctor Jara - Vientos del pueblo",
     "type": "bgm",
     "categories": [],
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false,
     "uuid": "e58a8336-3b3c-458d-ac34-4520b744b166",
-    "file": "Songs/Víctor Jara - Vientos del pueblo.ootrs"
+    "file": "Songs/V\u00edctor Jara - Vientos del pueblo.ootrs"
   },
   {
     "game": "Songs",
