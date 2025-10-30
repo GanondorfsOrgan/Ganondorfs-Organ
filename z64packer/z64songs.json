@@ -1736,5 +1736,28 @@
     "usesFormmask": false,
     "uuid": "df4075f5-9872-448f-896c-9d22304dd0f8",
     "file": "Undertale/Megalovania.ootrs"
+  },
+  {
+    "game": "Undertale",
+    "song": "sans",
+    "type": "bgm",
+    "categories": [
+      "ShootingGallery",
+      "House",
+      "Shop",
+      "PotionShop",
+      "WindmillHut",
+      "KaeporaGaebora",
+      "IngoTheme",
+      "SalesArea",
+      "Indoors",
+      "Overworld",
+      "CharacterTheme"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "uuid": "d1fec6e0-07b8-4b47-ba11-fe1118f8d5ef",
+    "file": "Undertale/sans.ootrs"
   }
 ]
