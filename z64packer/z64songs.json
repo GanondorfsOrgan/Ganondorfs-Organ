@@ -1,4 +1,4 @@
-﻿[
+[
   {
     "game": "Boku No Hero Academia",
     "song": "Sora Ni Utaeba",
@@ -2607,6 +2607,31 @@
     "file": "Deltarune/Scarlet Forest.ootrs",
     "preview": "Deltarune/Scarlet Forest.mp3",
     "lufs": "-14.90"
+  },
+  {
+    "uuid": "c20fe0a9-2646-4975-aa97-bf30a9df9106",
+    "creationDate": "2026-09-13T17:20:13.036Z",
+    "game": "Juan Luis Guerra 4.40",
+    "song": "La Bilirrubina",
+    "composers": [
+      "Juan Luis Guerra"
+    ],
+    "converters": [
+      "Tolin"
+    ],
+    "lufs": "-13.18",
+    "file": "Juan Luis Guerra 4.40/La Bilirrubina.ootrs",
+    "type": "bgm\r",
+    "categories": [
+      "GanondorfBattle",
+      "GanonBattle",
+      "BossBattle",
+      "FinalFight",
+      "BossFight",
+      "BigFight",
+      "Fight"
+    ],
+    "preview": "Juan Luis Guerra 4.40/La Bilirrubina.mp3"
   },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
