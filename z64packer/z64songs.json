@@ -2965,15 +2965,22 @@
     "usesCustomSamples": false,
     "usesFormmask": false,
     "file": "Deltarune/Gingerbread House.ootrs",
-    "preview": "",
+    "preview": "Deltarune/Gingerbread House.mp3",
     "hash": "7fa540446b6e559cbac6438da462091d",
-    "isCrossGame": false
+    "isCrossGame": false,
+    "converters": [
+      "Duraax"
+    ],
+    "composers": [
+      "Toby Fox"
+    ],
+    "lufs": "-20.93"
   },
   {
     "uuid": "0a08a835-3605-42d3-be67-87998004c1be",
     "creationDate": "2026-09-13T17:34:10.975Z",
     "game": "Deltarune",
-    "song": "Who might you be",
+    "song": "Who might you be?",
     "type": "bgm",
     "categories": [
       "HyruleField",
@@ -3047,9 +3054,16 @@
     "usesCustomSamples": false,
     "usesFormmask": false,
     "file": "Deltarune/Who might you be.ootrs",
-    "preview": "",
+    "preview": "Deltarune/Who might you be.mp3",
     "hash": "01f75733bd7ff550434c5e7a6495f18f",
-    "isCrossGame": false
+    "isCrossGame": false,
+    "converters": [
+      "Duraax"
+    ],
+    "composers": [
+      "Toby Fox"
+    ],
+    "lufs": "-16.37"
   },
   {
     "uuid": "ba5e9587-0e7d-4218-b09d-fe9fdf0edb61",
@@ -3129,9 +3143,16 @@
     "usesCustomSamples": false,
     "usesFormmask": false,
     "file": "Deltarune/Running Sky.ootrs",
-    "preview": "",
+    "preview": "Deltarune/Running Sky.mp3",
     "hash": "aced178e365a977b350cf7b03b3bcca1",
-    "isCrossGame": false
+    "isCrossGame": false,
+    "converters": [
+      "Duraax"
+    ],
+    "composers": [
+      "Toby Fox"
+    ],
+    "lufs": "-13.98"
   },
   {
     "uuid": "c20fe0a9-2646-4975-aa97-bf30a9df9106",
@@ -5076,7 +5097,7 @@
   {
     "uuid": "51d6d138-323d-4ef9-aaf4-19a1db961e0e",
     "creationDate": "2026-10-19T15:04:26.859Z",
-    "game": "Seihou 1 Shuusou Gyoku",
+    "game": "Seihou 1: Shuusou Gyoku",
     "song": "The Witches' Ball ~ Magus",
     "type": "bgm",
     "categories": [
@@ -5130,13 +5151,17 @@
     "usesFormmask": false,
     "isCrossGame": false,
     "file": "Seihou 1 Shuusou Gyoku/The Witches' Ball ~ Magus.ootrs",
-    "preview": "",
+    "preview": "https://archive.org/download/darunias-joy/Seihou 1 Shuusou Gyoku/The Witches' Ball ~ Magus.mp3",
+    "lufs": "-16.25",
+    "converters": [
+      "SeitanTaisen"
+    ],
     "hash": "aa4d6267a70bb60fbd6b8cb32efd0802"
   },
   {
     "uuid": "37f2049c-559b-4fda-bfe1-6b1b4fd74811",
     "creationDate": "2026-10-19T15:04:26.860Z",
-    "game": "Seihou 1 Shuusou Gyoku",
+    "game": "Seihou 1: Shuusou Gyoku",
     "song": "Dichromatic Lotus Butterfly ~ Ancients",
     "type": "bgm",
     "categories": [
@@ -5177,7 +5202,11 @@
     "usesFormmask": false,
     "isCrossGame": false,
     "file": "Seihou 1 Shuusou Gyoku/Dichromatic Lotus Butterfly ~ Ancients.ootrs",
-    "preview": "",
+    "preview": "https://archive.org/download/darunias-joy/Seihou 1 Shuusou Gyoku/Dichromatic Lotus Butterfly ~ Ancients.mp3",
+    "lufs": "-13.32",
+    "converters": [
+      "SeitanTaisen"
+    ],
     "hash": "944c5814a497cf21704fa16d051ad41c"
   },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
